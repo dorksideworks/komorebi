@@ -1,0 +1,56 @@
+[
+    {
+        "timeline" : "2023 - PRESENT",
+        "current_position" : "Web Developer • Slim Mekni Marketing Services",
+        "past_position" : [
+            "Video Editor",
+            "Graphics Designer"
+        ],
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut finibus aliquet diam vitae hendrerit. Nunc interdum mauris et commodo cursus. In et velit in velit malesuada rhoncus. Vivamus in neque diam. Pellentesque sagittis, nunc in tempor pulvinar, tellus ex malesuada ex, ut posuere ligula arcu quis nunc.",
+        "duties" : [],
+        "stack" : [
+            "NodeJS", "Javascript", "HTML & SASS", "ReactJS", "MongoDB", "ExpressJS", "Photoshop", "Illustrator", "Figma", "After Effects", "Premiere"
+        ]
+
+    },
+    {
+        "timeline" : "2023 - PRESENT",
+        "current_position" : "Web Developer • Slim Mekni Marketing Services",
+        "past_position" : [
+            "Video Editor",
+            "Graphics Designer"
+        ],
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut finibus aliquet diam vitae hendrerit. Nunc interdum mauris et commodo cursus. In et velit in velit malesuada rhoncus. Vivamus in neque diam. Pellentesque sagittis, nunc in tempor pulvinar, tellus ex malesuada ex, ut posuere ligula arcu quis nunc.",
+        "duties" : [],
+        "stack" : [
+            "NodeJS", "Javascript", "HTML & SASS", "ReactJS", "MongoDB", "ExpressJS", "Photoshop", "Illustrator", "Figma", "After Effects", "Premiere"
+        ]
+
+    },
+    {
+        "timeline" : "2023 - PRESENT",
+        "current_position" : "Web Developer • Slim Mekni Marketing Services",
+        "past_position" : [
+            "Video Editor",
+            "Graphics Designer"
+        ],
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut finibus aliquet diam vitae hendrerit. Nunc interdum mauris et commodo cursus. In et velit in velit malesuada rhoncus. Vivamus in neque diam. Pellentesque sagittis, nunc in tempor pulvinar, tellus ex malesuada ex, ut posuere ligula arcu quis nunc.",
+        "duties" : [],
+        "stack" : [
+            "NodeJS", "Javascript", "HTML & SASS", "ReactJS", "MongoDB", "ExpressJS", "Photoshop", "Illustrator", "Figma", "After Effects", "Premiere"
+        ]
+    },
+    {
+        "timeline" : "2016 - 2017",
+        "current_position" : "Software Developer / Quality Engineer • Job&Esther Technologies",
+        "past_position" : [
+            "Video Editor",
+            "Graphics Designer"
+        ],
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut finibus aliquet diam vitae hendrerit. Nunc interdum mauris et commodo cursus. In et velit in velit malesuada rhoncus. Vivamus in neque diam. Pellentesque sagittis, nunc in tempor pulvinar, tellus ex malesuada ex, ut posuere ligula arcu quis nunc.",
+        "duties" : [],
+        "stack" : [
+            "NodeJS", "Javascript", "HTML & SASS", "ReactJS", "MongoDB", "ExpressJS", "Photoshop", "Illustrator", "Figma", "After Effects", "Premiere"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title" : "GO Global Landing Page",
+        "short_description" : "GO GLOBAL, a visionary company specializing in Global digital solutions, entrusted me with the task of creating a dynamic online presence to showcase their diverse range of products and services.",
+        "description" : "",
+
+        "link" : "",
+        "images" : [
+            "",
+            ""
+        ],
+        "image" : ""
+    },
+    {
+        "title" : "Yashwin & Arpita Wedding Website",
+        "short_description" : "Step into the enchanting love story of Yashwin and Arpita through their beautifully crafted wedding website. Discover the picturesque wedding venues where their love story will unfold and find all the information you need to join in their joyous celebration.",
+        "description" : "",
+        "link" : "",
+        "images" : [
+            "",
+            ""
+        ],
+        "image" : ""
+    }, 
+    {
+        "title" : "Get Connected Global",
+        "short_description" : "Discover the power of digital success with Get Connected Global. Our expert team offers tailored social media services, dedicated support, and captivating multimedia production to propel your brand forward. ",
+        "description" : "",
+        "link" : "",
+        "images" : [
+            "",
+            ""
+        ],
+        "image" : ""
+    }
+]
